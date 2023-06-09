@@ -1,2 +1,2 @@
 # Form-Validation
-Small working form validation using Html5, CSS3 and Js
+Small working "form validation" using HTML5, CSS3 and JS
